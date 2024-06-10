@@ -1,4 +1,4 @@
-#!usr/bin/python3
+#!/usr/bin/python3
 """Solution for Pascal's Triangle problem"""
 
 def pascal_triangle(n):
